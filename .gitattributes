@@ -1,0 +1,4 @@
+* text=auto
+*.sp text eol=crlf
+*.md text eol=lf
+*.smx binary
